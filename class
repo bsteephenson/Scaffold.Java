@@ -1,0 +1,3 @@
+class {{#if class}}{{class}}{{else}}ClassName{{/if}}{
+	{{content}}
+}

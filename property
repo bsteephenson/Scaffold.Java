@@ -1,0 +1,9 @@
+private {{type}} {{name}};
+
+{{type}} get_{{name}}(){
+	return {{name}};
+}
+
+void set_{{name}}({{type}} arg){
+	{{name}} = arg;
+}
